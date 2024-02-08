@@ -8,7 +8,7 @@ metadata:
 spec:
   interval: 1m0s
   ref:
-    branch: fix/image
+    branch: fix/image-test
   secretRef:
     name: git-auth
   url: https://github.com/darkweaver87/traefik-hub-gitops.git
